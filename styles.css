@@ -17,3 +17,9 @@ h2 {
     background-color: tomato;
 }
 
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
