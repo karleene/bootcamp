@@ -23,3 +23,13 @@ ul {
     flex-direction: row;
 }
 
+p {
+    color: blue;
+    size: 20px;
+}
+
+footer p {
+    color: red;
+    size: 15px;
+}
+
